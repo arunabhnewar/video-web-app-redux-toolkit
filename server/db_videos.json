@@ -8,12 +8,12 @@
       "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
       "date": "May 10, 2022",
       "duration": "10:12",
-      "views": "1.1k",
+      "views": "26.1k",
       "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
       "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
       "tags": ["javascript", "react", "tips"],
-      "likes": 0,
-      "unlikes": 0
+      "likes": "1.3k",
+      "unlikes": "5"
     },
     {
       "id": 2,
@@ -23,12 +23,12 @@
       "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
       "date": "April 25, 2022",
       "duration": "10:12",
-      "views": "2.1k",
+      "views": "20.9k",
       "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
       "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
       "tags": ["vscode", "tips"],
-      "likes": 0,
-      "unlikes": 0
+      "likes": "881",
+      "unlikes": "2"
     },
     {
       "id": 3,
@@ -38,12 +38,12 @@
       "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
       "date": "March 11, 2022",
       "duration": "10:12",
-      "views": "5k",
+      "views": "35k",
       "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
       "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
       "tags": ["tailwind", "css"],
-      "likes": 0,
-      "unlikes": 0
+      "likes": "602",
+      "unlikes": "5"
     },
     {
       "id": 4,
@@ -53,12 +53,12 @@
       "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
       "date": "Jan 06, 2022",
       "duration": "10:12",
-      "views": "4.7k",
+      "views": "14.7k",
       "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
       "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
       "tags": ["debounce", "javascript", "tips"],
-      "likes": 0,
-      "unlikes": 0
+      "likes": "739",
+      "unlikes": "2"
     },
     {
       "id": 5,
@@ -68,12 +68,12 @@
       "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
       "date": "Nov 22, 2021",
       "duration": "10:12",
-      "views": "1.5k",
+      "views": "13.5k",
       "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
       "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
       "tags": ["sass", "css", "ui"],
-      "likes": 0,
-      "unlikes": 0
+      "likes": "980",
+      "unlikes": "4"
     },
     {
       "id": 6,
@@ -83,12 +83,12 @@
       "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
       "date": "Nov 08, 2021",
       "duration": "10:12",
-      "views": "3.3k",
+      "views": "23.3k",
       "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
       "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
       "tags": ["react", "router", "javascript"],
-      "likes": 0,
-      "unlikes": 0
+      "likes": "1.5k",
+      "unlikes": "50"
     },
     {
       "id": 7,
@@ -98,12 +98,87 @@
       "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
       "date": "Oct 15, 2021",
       "duration": "10:12",
-      "views": "4.8k",
+      "views": "38.8k",
       "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
       "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
       "tags": ["tailwind", "css", "ui"],
-      "likes": 0,
-      "unlikes": 0
+      "likes": "3.8k",
+      "unlikes": "10"
+    },
+    {
+      "id": 8,
+      "title": "CORS কি - What is CORS policy - বাংলা CORS টিউটোরিয়াল",
+      "description": "ক্লায়েন্ট সার্ভার রিকুয়েস্ট রেসপন্স সাইকেলে একটি স্ট্যান্ডার্ড পলিসি হলো CORS বা Cross-Origin Resource Sharing পলিসি। এই বিষয়টি আসলে কি, কিভাবে CORS error সমাধান করা যায়, কিভাবে সার্ভার থেকে সঠিক CORS header পাঠানো যায় ইত্যাদি গুরুত্বপূর্ণ কনসেপ্ট এর সহজ ব্যাখ্যা দেয়া হয়েছে এই ভিডিওতে।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jun 18, 2022",
+      "duration": "17:31",
+      "views": "22k",
+      "link": "https://www.youtube.com/embed/Ry_r8DCj3hw",
+      "thumbnail": "https://i.ytimg.com/vi/Ry_r8DCj3hw/maxresdefault.jpg",
+      "tags": ["cors"],
+      "likes": "1.4",
+      "unlikes": "1"
+    },
+    {
+      "id": 9,
+      "title": "আমার কোড এডিটর - Visual Studio Code - Installation, Plugins, Themes এবং Customization",
+      "description": "এই ভিডিওটি আমি মূলত দিয়েছি আপনাদের অনুরোধে। আমি এখন পর্যন্ত সবচেয়ে বেশি কমেন্ট পেয়েছি আমার VS Code Setup নিয়ে। এতো অনুরোধ ফেলতে পারলাম না। আমি কি থিম, ফন্ট, প্লাগইন ব্যবহার করি, কি কি কাস্টমাইজেশন করেছি ইত্যাদি নিয়ে আপনাদের সমস্ত curiosity এর উত্তর এই ভিডিওতে পাবেন। সেইসাথে যারা একদম beginner তারা scratch থেকে কিভাবে VS Code ইন্সটল করে সেটআপ করতে হয়, কি কি জিনিস জানতে হয় ইত্যাদি নিয়ে একটা ধারণা পেয়ে যাবেন এই ভিডিওতে।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 12, 2020",
+      "duration": "35:22",
+      "views": "42.8k",
+      "link": "https://www.youtube.com/embed/3iG1IBJHTgE",
+      "thumbnail": "https://i.ytimg.com/vi/3iG1IBJHTgE/maxresdefault.jpg",
+      "tags": ["vscode", "tips"],
+      "likes": "1.7",
+      "unlikes": "6"
+    },
+    {
+      "id": 10,
+      "title": "Lesson #1 - What is DOM - Play with DOM - Explained in Bangla",
+      "description": "In this video you will learn the theoretical concept of DOM ( Document Object Model )",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Dec 17, 2020",
+      "duration": "8:21",
+      "views": "50.1k",
+      "link": "https://www.youtube.com/embed/XY96d0vEdFk?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_",
+      "thumbnail": "https://i.ytimg.com/vi/XY96d0vEdFk/maxresdefault.jpg",
+      "tags": ["javascript", "dom"],
+      "likes": "1.4k",
+      "unlikes": "1"
+    },
+    {
+      "id": 11,
+      "title": "#8 - Raw Node Project (Part 1) - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "description": "চলমান Node.js টিউটোরিয়াল সিরিজে আজ থেকে প্রথম বারের মতো একটি সম্পূর্ণ প্রজেক্ট করে দেখানো শুরু করছি। এই প্রজেক্টে আমি একটি 'Uptime Monitoring API' বানিয়ে দেখাচ্ছি। তারই ধারাবাহিকতায় দ্বিতীয় পার্ট এর ভিডিও হলো এটি। এই ভিডিওতে আমি Environment Variable কিভাবে ব্যবহার করতে হয়, Data Store করার জন্য File System এর ব্যবহার এবং আগের টিউটোরিয়ালে দেখানো Routing সেটআপ & Node এর core fs module ব্যবহার করে CRUD (CREATE READ UPDATE DELETE) তৈরী করা দেখিয়েছি। আশা করি ভিডিওটি Beginners দের উপকারে আসবে। ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 16, 2020",
+      "duration": "59:12",
+      "views": "48.5k",
+      "link": "https://www.youtube.com/embed/Xg4effPSJXk",
+      "thumbnail": "https://i.ytimg.com/vi/Xg4effPSJXk/maxresdefault.jpg",
+      "tags": ["javascript", "nodejs", "backend"],
+      "likes": "1.3k",
+      "unlikes": "23"
+    },
+    {
+      "id": 12,
+      "title": "4 ways to fetch fetch data from API in React (Bangla) | fetch axios swr and react-query",
+      "description": "In this video, I have explained 4 ways to fetch fetch data from API in React (Bangla) using fetch API,  axios, swr and react-query.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jun 28, 2022",
+      "duration": "37:04",
+      "views": "19.3k",
+      "link": "https://www.youtube.com/embed/7exOfIAKuWU",
+      "thumbnail": "https://i.ytimg.com/vi/7exOfIAKuWU/maxresdefault.jpg",
+      "tags": ["react", "javascript", "api", "axios", "query"],
+      "likes": "792",
+      "unlikes": "4"
     }
   ],
   "tags": [
@@ -146,6 +221,30 @@
     {
       "id": 10,
       "title": "router"
+    },
+    {
+      "id": 11,
+      "title": "cors"
+    },
+    {
+      "id": 12,
+      "title": "dom"
+    },
+    {
+      "id": 13,
+      "title": "node"
+    },
+    {
+      "id": 14,
+      "title": "api"
+    },
+    {
+      "id": 15,
+      "title": "axios"
+    },
+    {
+      "id": 16,
+      "title": "query"
     }
   ]
 }
